@@ -1,0 +1,12 @@
+1)
+M = 
+Margine 10^(2 e 15)
+Senza margine 10
+tutti i precedenti con baricentro true
+
+
+2) 
+se si usa il baricentro, si può ottimizzare il codice perchè per ogni sfera serve solo un'iterazione, non servono aggiornamento delle etichette ecc e si possono calcolare A e B prima ed una sola volta.
+
+3)
+ottimizzare il codice in ogni caso
